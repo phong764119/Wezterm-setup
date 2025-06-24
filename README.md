@@ -1,5 +1,3 @@
-https://wezterm.org/config/files.html#quick-start
-
 # Window
 For window use PowerShell **NOT** "Window PowerShell"
 
