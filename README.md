@@ -25,3 +25,10 @@ Invoke-Expression (&starship init powershell)
 
 - [Starship](https://starship.rs/config/): Create file starship.toml located in ~/.config/starship.toml
 - [Wezterm](https://wezterm.org/config/files.html): Create file .wezterm.lua located in ~/.wezterm.lua
+
+# Shortcut
+
+- wezterm cli split-pane | wezterm cli split-pane --left
+- change pane size: ctrl shift alt + arrow key
+- switch pane: ctrl shift + arrow key
+- Toggle Pane Zoom State: Ctrl+Shift+z
